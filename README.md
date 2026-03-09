@@ -1,4 +1,4 @@
-# CLAUDE.md — Fake News Detection Project
+# Fake News Detection Project
 
 This file provides context and conventions for AI assistants working in this repository.
 
