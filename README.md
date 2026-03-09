@@ -31,7 +31,6 @@ No web framework, database, REST API, or CI/CD pipeline exists in this project.
 
 ```
 fake_news/
-├── CLAUDE.md                                  # This file
 ├── README.md                                  # Brief project description
 └── Fake_news_detection_using_NLP.ipynb       # Complete ML pipeline
 ```
@@ -127,9 +126,6 @@ This project has no automated tests, linter, or build system. The development wo
 3. Run all cells in order (`Kernel > Restart & Run All`).
 4. Inspect output metrics and saved model files.
 
-### Installing dependencies
-
-There is no `requirements.txt`. Install the necessary libraries manually:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn tensorflow wordcloud joblib
@@ -142,7 +138,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow wordcloud jo
 | Branch | Purpose |
 |---|---|
 | `master` | Main branch with original uploaded files |
-| `claude/claude-md-*` | AI assistant working branches |
 
 ---
 
